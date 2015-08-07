@@ -1,0 +1,4 @@
+Milk	200
+Water	8470
+Coffee	9750
+Tea	9910
